@@ -1,2 +1,2 @@
 # google-clon
- Google layout cloning.
+ Google layout cloning. View: https://google-clon-one.vercel.app/
